@@ -1,0 +1,56 @@
+{
+    "F-2" : {
+        "processName" : "Evaporator floor",
+        "processId" : "F-2",
+        "duration" : "10",
+        "isOngoing" : "false",
+        "materialReq" : "7",
+        "materialGroup" : [
+            {
+                "name" : "Rivets 3mm",
+                "qtyAvailable" : "50" 
+            },
+            {
+                "name" : "Drier Filter ",
+                "qtyAvailable" : "7" 
+            },
+            {
+                "name" : "Expansion Valve",
+                "qtyAvailable" : "10" 
+            },
+            {
+                "name" : "Copper Tube 7x8mm ",
+                "qtyAvailable" : "10" 
+            },
+            {
+                "name" : "Accumulator ",
+                "qtyAvailable" : "7" 
+            }
+        ],
+        "employeeGroup" : [
+            "Arpit Yadav",
+            "Deepak Soni"
+        ]
+    },
+    "F-6" : {
+        "processName" : "Dip assembly structure",
+        "processId" : "F-6",
+        "duration" : "15",
+        "isOngoing" : "false",
+        "materialReq" : "5",
+        "materialGroup" : [
+            {
+                "name" : "material1",
+                "qtyAvailable" : "5" 
+            },
+            {
+                "name" : "material2",
+                "qtyAvailable" : "5" 
+            }
+        ],
+        "employeeGroup" : [
+            "Brij Kishore",
+            "Harish Mehra"
+        ]
+    }
+}
