@@ -1,6 +1,6 @@
 .header-div {
-    width: 83%;
-    height: 140%;
+    width: 97%;
+    height: 142%;
     background-color: #1F3A8B;
     color: white;
     font-size: 25px;
@@ -10,8 +10,9 @@
     border-radius: 5px;
     FONT-SIZE: 22px;
     padding-top: 6px;
-    padding-left: 17%;
+    padding-left: 3%;
     font-family: sans-serif;
+    padding-bottom: 14px;
 }
 
 .header-logo {

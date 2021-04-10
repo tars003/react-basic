@@ -62,7 +62,7 @@ const MaterialEntry = (props) => {
         {options.map((value) => {
             const labelId = `checkbox-list-secondary-label-${value}`;
             return (
-            <ListItem key={value.qtyAvailable} button>
+            <ListItem key={value.name} button>
                 <ListItemAvatar>
                 <Avatar
                     alt={`Avatar n°${value + 1}`}

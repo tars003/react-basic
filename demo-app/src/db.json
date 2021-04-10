@@ -1,10 +1,12 @@
 {
-    "F-2" : {
+    "F2" : {
         "processName" : "Evaporator floor",
-        "processId" : "F-2",
+        "processId" : "F2",
         "duration" : "10",
         "isOngoing" : "false",
         "materialReq" : "7",
+        "target": "10",
+        "current" : "0",
         "materialGroup" : [
             {
                 "name" : "Rivets 3mm",
@@ -29,7 +31,12 @@
         ],
         "employeeGroup" : [
             "Arpit Yadav",
-            "Deepak Soni"
+            "Deepak Soni",
+            "Avantas Ghosal",
+            "Asvathama Ponnada",
+            "Amrish Ilyas",
+            "Advitiya Sujeet"
+
         ]
     },
     "F-6" : {
@@ -38,6 +45,7 @@
         "duration" : "15",
         "isOngoing" : "false",
         "materialReq" : "5",
+        "target": "10",
         "materialGroup" : [
             {
                 "name" : "material1",
